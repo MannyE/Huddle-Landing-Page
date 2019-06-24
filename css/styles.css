@@ -25,7 +25,7 @@ body {
   margin: 0;
   padding: 0;
   position: relative;
-  height: 1000px;
+  height: 950px;
   background-image: url(../images/bg-hero-desktop.svg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ body {
   background-color: white;
 
   position: absolute;
-  top: 2506px;
+  top: 2456px;
   left: 500px;
 }
 
@@ -132,7 +132,7 @@ body {
     .footer_logo {
       color: white;
       position: absolute;
-      top: 2700px;
+      top: 2690px;
       left: 200px;
       width: 15%;
     }
@@ -140,7 +140,7 @@ body {
     .footer_column {
       width: auto;
       float: left;
-      margin: 4%;
+      margin: 7%;
       margin-top: 250px;
     }
 
@@ -152,7 +152,8 @@ body {
 
     .copyright {
       color: white;
-
+      width: 100%
       text-align: right;
       padding-right: 100px;
+      padding-top: 440px;
     }
