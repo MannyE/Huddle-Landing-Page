@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  padding:0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.125rem;
+}
+
+.Logo{
+  padding: 3.125rem 0 0 6.25rem;
+}
+
+.Try-btn {
+  display: inline-block;
+  background-color: white;
+  border-style: solid;
+  border-radius: 6.25rem;
+  padding: 15px 50px;
+
+  position: absolute;
+  top: 3.125rem;
+  right: 6.25rem;
+}
+
+.Intro-Section  {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  height: 60.5rem;
+  background-image: url(../images/bg-hero-desktop.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+    .Intro-Section h1 {
+      position: 0;
+      font-size: 3.125rem;
+      font-family: Poppins, sans-serif;
+      width: 35%;
+      margin-top: 12.5rem;
+      margin-left: 6.25rem;
+    }
+
+    .Intro-Section p {
+      padding-left: 6.25rem;
+      width: 31%;
+    }
+
+    .Intro-image {
+      width: 50%;
+      margin:0;
+
+      position: absolute;
+      top:9.375rem;
+      right:6.25rem;
+    }
+
+    .Intro-btn {
+      margin: 6.25px 0 0 100px;
+      font-family: "Open Sans", sans-serif;
+      color: white;
+      background-color: hsl(322, 100%, 66%);
+      display: inline-block;
+      border: none;
+      border-radius: 6.25px;
+      padding: 15px 32px;
+    }
+
+.Information-Section{
+  margin-bottom: 180px;
+}
+
+    .information_sub {
+      margin: 0 150px 30px;
+      display: inline-block;
+      border: 5px solid hsl(193, 100%, 96%);
+      width: 80%;
+      height: 430px;
+    }
+    .information_sub h3, .information_sub p {
+      display: inline-block;
+      position: relative;
+      top: 115px;
+      padding-left: 150px;
+      width: 40%
+    }
+    .information_image {
+      width: 30%;
+      float:right;
+      margin: 40px 40px 0 0;
+    }
+
+    #information_float_left {
+      padding-left: 150px;
+      float:left;
+    }
+
+.Get_started_div
+{
+  margin:auto;
+  border: 1px solid lightgrey;
+  width:40%;
+  text-align: center;
+  padding: 0;
+  border-radius: 20px;
+  background-color: white;
+
+  position: absolute;
+  top: 2460px;
+  left: 500px;
+}
+
+.Get_started_final_btn {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  background-color: hsl(322, 100%, 66%);
+  display: inline-block;
+  border: none;
+  border-radius: 3.125rem;
+  padding: 15px 32px;
+  margin-bottom: 40px;
+}
+
+.footer {
+  text-align: left;
+  background-color: hsl(192, 100%, 9%);
+  color: white;
+  overflow: hidden;
+
+
+}
+
+    .footer_logo {
+      color: white;
+      position: absolute;
+      top: 2700px;
+      left: 200px;
+      width: 15%;
+    }
+
+    .footer_column {
+      width: auto;
+      float: left;
+      margin: 4%;
+      margin-top: 250px;
+    }
+
+    #footer_column_1 {
+      margin-left:0;
+      margin-left: 200px;
+      width:23%
+    }
+
+    .copyright {
+      color: white;
+
+      text-align: right;
+      padding-right: 100px;
+    }
