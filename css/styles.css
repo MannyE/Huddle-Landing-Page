@@ -25,20 +25,19 @@ body {
   margin: 0;
   padding: 0;
   position: relative;
-  height: 60.5rem;
+  height: 1000px;
   background-image: url(../images/bg-hero-desktop.svg);
   background-size: contain;
   background-repeat: no-repeat;
-
 }
 
     .Intro-Section h1 {
       position: 0;
-      font-size: 3.125rem;
+      font-size: 50px;
       font-family: Poppins, sans-serif;
       width: 35%;
-      margin-top: 12.5rem;
-      margin-left: 6.25rem;
+      margin-top: 200px;
+      margin-left: 100px;
     }
 
     .Intro-Section p {
@@ -48,11 +47,11 @@ body {
 
     .Intro-image {
       width: 50%;
-      margin:0;
+      margin: 0;
 
       position: absolute;
-      top:9.375rem;
-      right:6.25rem;
+      top: 150px;
+      right: 100px;
     }
 
     .Intro-btn {
